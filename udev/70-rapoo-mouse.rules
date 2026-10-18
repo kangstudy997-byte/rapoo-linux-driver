@@ -1,0 +1,2 @@
+# Rapoo Gaming Mouse (VT9PRO / 24ae:1244)
+KERNEL=="hidraw*", ATTRS{idVendor}=="24ae", ATTRS{idProduct}=="1244", MODE="0660", TAG+="uaccess"

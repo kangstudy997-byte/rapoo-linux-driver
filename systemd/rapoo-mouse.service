@@ -1,0 +1,11 @@
+[Unit]
+Description=Rapoo Gaming Mouse Persistent Profile Service
+After=default.target
+
+[Service]
+Type=oneshot
+ExecStart=-%h/.local/bin/rapoo-mouse apply
+RemainAfterExit=yes
+
+[Install]
+WantedBy=default.target

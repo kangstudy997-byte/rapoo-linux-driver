@@ -1,0 +1,38 @@
+{
+  "P + Enter (채팅/스킬 후 즉시 전송)": {
+    "slot": 0,
+    "keys": "p + enter",
+    "delay_ms": 50,
+    "mode": 1,
+    "repeat": 1,
+    "desc": "P를 누르고 50ms 후 엔터를 입력하여 채팅창 또는 콤보를 전송"
+  },
+  "Ctrl + C (원클릭 복사)": {
+    "keys": "ctrl + c",
+    "delay_ms": 30,
+    "mode": 1,
+    "repeat": 1,
+    "desc": "선택 영역 즉시 복사 (동시 입력 콤보)"
+  },
+  "Ctrl + V (원클릭 붙여넣기)": {
+    "keys": "ctrl + v",
+    "delay_ms": 30,
+    "mode": 1,
+    "repeat": 1,
+    "desc": "클립보드 내용 즉시 붙여넣기"
+  },
+  "빠른 점프 앉기 (Space + C)": {
+    "keys": "space + c",
+    "delay_ms": 40,
+    "mode": 1,
+    "repeat": 1,
+    "desc": "FPS 슈퍼점프/슬라이딩 점프 연계 커맨드"
+  },
+  "Enter + P + Enter (채팅창 열고 P 입력)": {
+    "keys": "enter + p + enter",
+    "delay_ms": 50,
+    "mode": 1,
+    "repeat": 1,
+    "desc": "엔터로 채팅창 열고 P 전송 후 닫기"
+  }
+}

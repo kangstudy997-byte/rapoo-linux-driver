@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+.cache/
+*.bin
+build/
+bin/
+*.o
+*.a

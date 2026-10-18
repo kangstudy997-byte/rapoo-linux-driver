@@ -1,0 +1,23 @@
+{
+  "dpi_stages": [
+    2000
+  ],
+  "active_dpi_stage": 0,
+  "polling_rate_hz": 1000,
+  "lod_mm": 1.1,
+  "debounce_ms": 2,
+  "button_mappings": {
+    "0": 9,
+    "1": 11,
+    "2": 10,
+    "5": 41,
+    "7": 12,
+    "8": 13,
+    "11": 37,
+    "12": 38,
+    "13": 36
+  },
+  "button_params": {
+    "5": 0
+  }
+}
